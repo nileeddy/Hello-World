@@ -15,7 +15,9 @@
 
 - [About This Project](#about-this-project)
 
-- [Tools Ueds](#tools-used)
+- [Tools Used](#tools-used)
+  
+- [LinkedIn Lessons](#valuable-lessons-from-linkedin-learning)
   
 
 # About This Project
@@ -23,3 +25,9 @@ My name is Nile Eddy and this is my first project on GitHub. I am working on thi
 
 # Tools Used
 I have so far used GitHub Docs, LinkedIn Learning, and BAIS Seminar ICON to help me learn the ins and outs of this GitHub repository.
+
+# Valueable Lessons From LinkedIn Learning
+I have learned some very interesting things from the LinkedIn learning course on GitHub
+
+**Value of GitHub**
+There is alot of things you can do with GitHub and it can boost your professional view in data works.

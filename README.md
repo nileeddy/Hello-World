@@ -36,5 +36,5 @@ There is alot of things you can do with GitHub and it can boost your professiona
 **Employment oppertunities.**
 A quality work shown on GitHub can set you apart from the competition in the job market.
 
-# **Nile Eddy Linkedin**
+# Nile Eddy Linkedin
 [Nile Eddy](https://www.linkedin.com/in/nile-eddy-895aa1255)

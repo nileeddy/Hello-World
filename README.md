@@ -10,4 +10,4 @@
 
 ## Table of Contents
 
-### Intro (##My-First-Repository)
+### Intro (##my-first-repository)

@@ -15,7 +15,11 @@
 
 - [About This Project](#about-this-project)
 
+- [Tools Ueds](#tools-used)
+  
+
 # About This Project
 My name is Nile Eddy and this is my first project on GitHub. I am working on this in class and at home while trying to feel my way through the basics of GitHub. I am currently doing a LinkedIn learning course on the use of GitHub in the world of data science.
 
 # Tools Used
+I have so far used GitHub Docs, LinkedIn Learning, and BAIS Seminar ICON to help me learn the ins and outs of this GitHub repository.

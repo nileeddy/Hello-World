@@ -2,8 +2,8 @@
 ## My First Repository
 **Nile Eddy BAIS Seminar**
 
-*Finance*
-*BAIS*
+**Finance**
+**BAIS**
 *SRM*
 *Second Year Student*
 
@@ -17,3 +17,5 @@
 
 # About This Project
 My name is Nile Eddy and this is my first project on GitHub. I am working on this in class and at home while trying to feel my way through the basics of GitHub. I am currently doing a LinkedIn learning course on the use of GitHub in the world of data science.
+
+# Tools Used

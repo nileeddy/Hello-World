@@ -17,8 +17,7 @@
 
 - [Tools Used](#tools-used)
   
-- [LinkedIn Lessons](#valuable-lessons-from-linkedin-learning)
-  
+- [Valueable Lessons From LinkedIn Learning](#valueable-lessons-from-linkedin-learning)  
 
 # About This Project
 My name is Nile Eddy and this is my first project on GitHub. I am working on this in class and at home while trying to feel my way through the basics of GitHub. I am currently doing a LinkedIn learning course on the use of GitHub in the world of data science.
@@ -29,5 +28,9 @@ I have so far used GitHub Docs, LinkedIn Learning, and BAIS Seminar ICON to help
 # Valueable Lessons From LinkedIn Learning
 I have learned some very interesting things from the LinkedIn learning course on GitHub
 
-**Value of GitHub**
+**Value of GitHub.**
 There is alot of things you can do with GitHub and it can boost your professional view in data works.
+
+**Employment oppertunities.**
+A quality work shown on GitHub can set you apart from the competition in the job market.
+

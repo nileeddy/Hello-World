@@ -17,7 +17,9 @@
 
 - [Tools Used](#tools-used)
   
-- [Valueable Lessons From LinkedIn Learning](#valueable-lessons-from-linkedin-learning)  
+- [Valueable Lessons From LinkedIn Learning](#valueable-lessons-from-linkedin-learning)
+
+- [My Linkedin Profile](nile-eddy-linkedin)
 
 # About This Project
 My name is Nile Eddy and this is my first project on GitHub. I am working on this in class and at home while trying to feel my way through the basics of GitHub. I am currently doing a LinkedIn learning course on the use of GitHub in the world of data science.
@@ -34,3 +36,5 @@ There is alot of things you can do with GitHub and it can boost your professiona
 **Employment oppertunities.**
 A quality work shown on GitHub can set you apart from the competition in the job market.
 
+# **Nile Eddy Linkedin**
+[Nile Eddy](https://www.linkedin.com/in/nile-eddy-895aa1255)

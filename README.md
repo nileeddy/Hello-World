@@ -27,7 +27,7 @@ My name is Nile Eddy and this is my first project on GitHub. I am working on thi
 # Tools Used
 I have so far used GitHub Docs, LinkedIn Learning, and BAIS Seminar ICON to help me learn the ins and outs of this GitHub repository.
 
-# Valueable Lessons From LinkedIn Learning
+# Valueable Lessons From LinkedIn Learning (so far)
 I have learned some very interesting things from the LinkedIn learning course on GitHub
 
 **Value of GitHub.**
